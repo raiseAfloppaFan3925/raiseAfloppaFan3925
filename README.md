@@ -10,7 +10,7 @@
 # About
 - Hi, I'm RaiseAFloppaFan3925, aka Rockets4Life!
 - The programming languages I use are Scratch/Turbowarp/GandiIDE/PenguinMod, Godot (GDScript), Python, and TypeScript!
-- I like joking sometimes, just check the fake resume section! ([inspired by this video]((https://youtu.be/rXj07zIqOk8?si=fQ5ApEWf0E_jnMBx&t=830)))
+- I like joking sometimes, just check the fake resume section! [inspired by this video]((https://youtu.be/rXj07zIqOk8?si=fQ5ApEWf0E_jnMBx&t=830))
 
 ````js
 ---- Resume ----
