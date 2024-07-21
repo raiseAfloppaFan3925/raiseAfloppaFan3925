@@ -7,7 +7,7 @@
 - ⚡ Fun fact: **i like cats**
 
 ## Projects
-* [ErrorScript](github.com/raiseAfloppaFan3925/ErrorScript) - The worst programming language.
+* [ErrorScript](https://github.com/raiseAfloppaFan3925/ErrorScript/tree/main]) - The worst programming language.
 * `???` - The worst markup language. If you use `???`, why don't you just use HTML?
     * `???` for `???` - A syntax highlighter.
 
