@@ -33,8 +33,8 @@ Chewbacca and Superman
 
 # Projects
 * [ErrorScript](https://github.com/raiseAfloppaFan3925/ErrorScript/tree/main]) - The worst programming language.
-* `???` - The worst markup language. If you use `???`, why don't you just use HTML?
-    * `???` for `???` - A syntax highlighter.
+* `[insert placeholder here]` - The worst markup language. If you use `[insert placeholder here]`, why don't you just use HTML?
+    * `[insert placeholder here]` for `[insert placeholder here]` - A syntax highlighter.
 
 
 <!---
