@@ -33,8 +33,8 @@ Chewbacca and Superman
 
 # Projects
 * [ErrorScript](https://github.com/raiseAfloppaFan3925/ErrorScript/tree/main]) - The worst programming language.
-* `[insert placeholder here]` - The worst markup language. If you use `[insert placeholder here]`, why don't you just use HTML?
-    * `[insert placeholder here]` for `[insert placeholder here]` - A syntax highlighter.
+* Plutonium - A programming language inspired by [the Radon Project](github.com/radon-project/radon).
+* Oxygen - A programming language soon to be forked from Plutonium, chosen in a poll among my classmates
 
 
 <!---
