@@ -18,6 +18,7 @@ Oh yeah and please don't check the source code of my stuff if you don't want to 
 * an esoteric programming language
 * breathing
 * thinking of a solution to my source-to-source compiler
+* A recursive decent parser for a context-sensitive language
 
 ## Programming languages (in chronological order)
 * Scratch 3
@@ -27,6 +28,7 @@ Oh yeah and please don't check the source code of my stuff if you don't want to 
 * TypeScript
 * Rust
 * HTML/CSS/JS
+* C
 
 
 <!---
