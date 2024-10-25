@@ -39,6 +39,9 @@ Oh yeah and please don't check the source code of my stuff if you don't want to 
 | C++                                     | N/A                  | Same thing with C, except I haven't used it yet (lol classes)                                  | not yet                                           |
 | PythOwO                                 | UwU                  | hehe uwu programming language nice                                                             | not yet                                           |
 
+*ps: i am a bfdi fan*
+*and woomy-arras.io (woomy-online.glitch.me) fan*
+*and rust borrow checker lover/hater*
 
 <!---
 raiseAfloppaFan3925/raiseAfloppaFan3925 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
