@@ -40,7 +40,9 @@ Oh yeah and please don't check the source code of my stuff if you don't want to 
 | PythOwO                                 | UwU                  | hehe uwu programming language nice                                                             | not yet                                           |
 
 *ps: i am a bfdi fan*
+
 *and woomy-arras.io (woomy-online.glitch.me) fan*
+
 *and rust borrow checker lover/hater*
 
 <!---
