@@ -45,6 +45,8 @@ Oh yeah and please don't check the source code of my stuff if you don't want to 
 
 *and rust borrow checker lover/hater*
 
+*also how do i create a bootloader for x86-64 intel core i3 in pure nasm intel x86-64 assembly*
+
 <!---
 raiseAfloppaFan3925/raiseAfloppaFan3925 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
