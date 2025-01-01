@@ -12,6 +12,8 @@ Hello! I'm raiseAfloppaFan3925, a hobbyist programmer and website/graphic design
 
 Oh yeah and please don't check the source code of my stuff if you don't want to have a stroke...
 
+### HAPPY NEW YEAR 2025! (1/1/2025 in PH where I live as of this edit)
+
 ## Currently working on
 * my school work
 * an esoteric programming language
@@ -38,6 +40,12 @@ Oh yeah and please don't check the source code of my stuff if you don't want to 
 | x86-64 assembly (just a little)         | why.                 | No. Just no! Anyways I'd like to compile from C-                                               | NO THANK YOU                                      |
 | C++                                     | N/A                  | Same thing with C, except I haven't used it yet (lol classes)                                  | not yet                                           |
 | PythOwO                                 | UwU                  | hehe uwu programming language nice                                                             | not yet                                           |
+
+# Other Accounts
+* [YouTube](https://www.youtube.com/@raiseafloppafan3925/) - My voice will get annoying, don't watch my old videos please they're so cringe!
+* [Scratch](https://scratch.mit.edu/users/raiseAfloppaFan3925/) - New Scratch account
+* [Scratch](https://scratch.mit.edu/users/CattailPvZ25764/) - Old Scratch account
+* [Esolang Wiki](https://esolangs.org/wiki/User:RaiseAfloppaFan3925) - Rust
 
 *ps: i am a bfdi fan*
 
