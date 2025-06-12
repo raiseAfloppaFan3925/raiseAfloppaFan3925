@@ -10,18 +10,19 @@
 ## About
 Hello! I'm raiseAfloppaFan3925, a hobbyist programmer and website/graphic designer. I like programming for fun, reinventing the wheel for no reason, and creating esoteric programming languages. My favorite esoteric languages are [pythOwO](https://github.com/virejdasani/pythOwO) and [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE).
 
+<!---
 Oh yeah and please don't check the source code of my stuff if you don't want to have a stroke...
 
-### HAPPY NEW YEAR 2025! (1/1/2025 in PH where I live as of this edit)
+## HAPPY NEW YEAR 2025! (1/1/2025 in PH where I live as of this edit)
+--->
 
 ## Currently working on
 * my school work
-* an esoteric programming language
+* [an esoteric programming language](https://github.com/raiseAfloppaFan3925/nonstraightforward)
 * an esoteric programming language
 * breathing
-* thinking of a solution to my source-to-source compiler
-* A recursive decent parser for a context-sensitive language
 
+<!---
 ## Programming languages (in chronological order)
 | Language                                | Difficulty (Opinion) | Opinion                                                                                        | Time to Learn (uncertain)                         |
 |-----------------------------------------|----------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------|
@@ -40,20 +41,9 @@ Oh yeah and please don't check the source code of my stuff if you don't want to 
 | x86-64 assembly (just a little)         | why.                 | No. Just no! Anyways I'd like to compile from C-                                               | NO THANK YOU                                      |
 | C++                                     | N/A                  | Same thing with C, except I haven't used it yet (lol classes)                                  | not yet                                           |
 | PythOwO                                 | UwU                  | hehe uwu programming language nice                                                             | not yet                                           |
+--->
 
-# Other Accounts
-* [YouTube](https://www.youtube.com/@raiseafloppafan3925/) - My voice will get annoying, don't watch my old videos please they're so cringe!
-* [Scratch](https://scratch.mit.edu/users/raiseAfloppaFan3925/) - New Scratch account
-* [Scratch](https://scratch.mit.edu/users/CattailPvZ25764/) - Old Scratch account
-* [Esolang Wiki](https://esolangs.org/wiki/User:RaiseAfloppaFan3925) - Rust
-
-*ps: i am a bfdi fan*
-
-*and woomy-arras.io (woomy-online.glitch.me) fan*
-
-*and rust borrow checker lover/hater*
-
-*also how do i create a bootloader for x86-64 intel core i3 in pure nasm intel x86-64 assembly*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiseAfloppaFan3925)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 raiseAfloppaFan3925/raiseAfloppaFan3925 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
