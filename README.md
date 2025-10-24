@@ -11,7 +11,7 @@
 Hello! I'm raiseAfloppaFan3925, a programmer who does random things for fun.
 
 ## Check out some of the stuff I made!
-- ??? - Coming soon!
 - [Nonstraightforward](https://github.com/raiseAfloppaFan3925/nonstraightforward) - An esoteric JavaScript superset designed to be as verbose as possible.
+- [Mango](https://github.com/raiseAfloppaFan3925/mango) - An esolang crafted from 2010-20s internet culture.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiseAfloppaFan3925)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiseAfloppaFan3925)](https://github.com/anuraghazra/github-readme-stats) -->
