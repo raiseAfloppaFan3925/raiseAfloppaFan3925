@@ -7,6 +7,9 @@
 - 😄 Pronouns: Boeing AH-64D Apache Longbow (jk)
 - ⚡ Fun fact: **i like cats**
 --->
+
+[also on codeberg](https://codeberg.org/raiseafloppafan3925)
+
 ## About
 Hello! I'm raiseAfloppaFan3925, a programmer who does random things for fun.
 
